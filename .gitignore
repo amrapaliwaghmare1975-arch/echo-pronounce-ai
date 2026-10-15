@@ -1,0 +1,42 @@
+# Dependencies
+node_modules/
+backend/venv/
+venv/
+.venv/
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Databases & Local Data
+*.db
+*.sqlite
+*.sqlite3
+backend/pronunciation_history.db
+
+# Audio Recordings & Temp files
+*.webm
+*.wav
+*.mp3
+*.tmp
+
+# Environment Variables & Secrets
+.env
+.env.local
+.env.*.local
+
+# Build outputs
+frontend/dist/
+frontend/build/
+dist/
+build/
+
+# IDE & OS files
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+.DS_Store

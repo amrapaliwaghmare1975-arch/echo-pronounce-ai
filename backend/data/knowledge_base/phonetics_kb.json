@@ -1,0 +1,153 @@
+[
+  {
+    "id": "th_unvoiced",
+    "sound": "/θ/",
+    "title": "Voiceless 'TH' Sound (as in 'Think', 'Cathedral', 'Through')",
+    "category": "Fricative Consonants",
+    "tongue_position": "Place the tip of your tongue gently between your upper and lower front teeth (or just behind the edge of your top teeth). Do not clamp down.",
+    "lip_shape": "Relax your lips and keep them slightly open.",
+    "airflow": "Blow a continuous, gentle stream of air over the tongue tip. No vocal cord vibration (unvoiced). It should sound like soft friction.",
+    "common_pitfall": "Replacing /θ/ with /s/, /t/, or /f/ (saying 'sink' or 'tink' instead of 'think').",
+    "minimal_pairs": [
+      { "target": "think", "contrast": "sink" },
+      { "target": "thought", "contrast": "fought" },
+      { "target": "thick", "contrast": "sick" },
+      { "target": "three", "contrast": "tree" },
+      { "target": "through", "contrast": "true" }
+    ],
+    "keywords": ["think", "thought", "thick", "three", "through", "throughout", "cathedral", "author", "bath", "teeth", "faith", "method", "therapy"],
+    "practice_drill": "The author thought through three thrilling theories."
+  },
+  {
+    "id": "th_voiced",
+    "sound": "/ð/",
+    "title": "Voiced 'TH' Sound (as in 'The', 'That', 'Rhythm')",
+    "category": "Fricative Consonants",
+    "tongue_position": "Same tongue placement as /θ/ (tip between upper and lower teeth), but activate your voice box.",
+    "lip_shape": "Relaxed and slightly parted.",
+    "airflow": "Continuous airflow with vocal cords buzzing. Touch your throat: you should feel a distinct vibration.",
+    "common_pitfall": "Replacing /ð/ with /d/ or /z/ (saying 'de' or 'ze' instead of 'the').",
+    "minimal_pairs": [
+      { "target": "the", "contrast": "duh" },
+      { "target": "then", "contrast": "den" },
+      { "target": "they", "contrast": "day" },
+      { "target": "breathe", "contrast": "breed" },
+      { "target": "there", "contrast": "dare" }
+    ],
+    "keywords": ["the", "this", "that", "these", "those", "there", "they", "them", "then", "other", "another", "father", "mother", "brother", "rhythm", "smooth", "breathe"],
+    "practice_drill": "These brothers and their father gather together smoothly."
+  },
+  {
+    "id": "s_vs_sh",
+    "sound": "/s/ vs /ʃ/",
+    "title": "Distinguishing 'S' and 'SH' (as in 'Seashells', 'She')",
+    "category": "Sibilant Consonants",
+    "tongue_position": "For /s/: Tongue tip points close to the roof just behind upper front teeth (alveolar ridge). For /ʃ/ (sh): Pull tongue slightly further back, blade of tongue arched toward the palate.",
+    "lip_shape": "For /s/: Wide, smiling lips. For /ʃ/: Flare lips forward in a slight trumpet or pout shape.",
+    "airflow": "Sharp, hissing jet of air down the tongue center for /s/. Broader, softer whooshing sound for /ʃ/.",
+    "common_pitfall": "Collapsing both sounds into /s/ or /sh/ (e.g. saying 'see-sells' or 'she-shells' for 'seashells').",
+    "minimal_pairs": [
+      { "target": "she", "contrast": "sea" },
+      { "target": "shells", "contrast": "sells" },
+      { "target": "sheet", "contrast": "seat" },
+      { "target": "shoe", "contrast": "sue" },
+      { "target": "shine", "contrast": "sign" }
+    ],
+    "keywords": ["she", "sea", "sells", "shells", "seashore", "shore", "special", "sure", "session", "efficiency", "pressure", "action", "finish"],
+    "practice_drill": "She sells shiny seashells by the silent seashore."
+  },
+  {
+    "id": "r_vs_l",
+    "sound": "/r/ vs /l/",
+    "title": "Liquid Consonants: American 'R' vs 'L' (as in 'Right', 'Light')",
+    "category": "Liquid Consonants",
+    "tongue_position": "For /r/: Tongue curls or bunches backward in the mouth; the tongue tip NEVER touches the roof of your mouth. For /l/: Tongue tip presses firmly against the alveolar ridge behind top teeth, letting air flow out the sides.",
+    "lip_shape": "For /r/: Slightly rounded lips. For /l/: Neutral lips.",
+    "airflow": "Voiced air resonates through the oral cavity for /r/. Lateral airflow past the sides of the tongue for /l/.",
+    "common_pitfall": "Flapping the tongue tip against the roof of the mouth for /r/ (producing a flap /d/ or /l/).",
+    "minimal_pairs": [
+      { "target": "right", "contrast": "light" },
+      { "target": "red", "contrast": "led" },
+      { "target": "road", "contrast": "load" },
+      { "target": "pray", "contrast": "play" },
+      { "target": "grow", "contrast": "glow" }
+    ],
+    "keywords": ["red", "right", "light", "looking", "forward", "lazy", "clear", "resonate", "choir", "really", "rhythm", "rule", "leader", "sustainable"],
+    "practice_drill": "Red lorries and yellow lorries roll rapidly along the road."
+  },
+  {
+    "id": "v_vs_w",
+    "sound": "/v/ vs /w/",
+    "title": "Labiodental 'V' vs Bilabial 'W' (as in 'Very', 'Wary', 'Wednesday')",
+    "category": "Approximant / Fricative",
+    "tongue_position": "For /v/: Tongue stays neutral in floor of mouth. For /w/: Back of the tongue raises toward the soft palate.",
+    "lip_shape": "For /v/: Upper front teeth rest lightly on inside of the LOWER lip. For /w/: Both lips form a tight circle (like whistling or sipping through a straw), with teeth NOT touching lips.",
+    "airflow": "For /v/: Voiced friction between top teeth and bottom lip. For /w/: Voiced smooth glide through rounded lips.",
+    "common_pitfall": "Using /w/ for /v/ ('wery' for 'very') or touching teeth to lips for /w/.",
+    "minimal_pairs": [
+      { "target": "very", "contrast": "wary" },
+      { "target": "vest", "contrast": "west" },
+      { "target": "vine", "contrast": "wine" },
+      { "target": "vet", "contrast": "wet" },
+      { "target": "vow", "contrast": "wow" }
+    ],
+    "keywords": ["very", "view", "voice", "vowel", "wednesday", "water", "week", "when", "work", "world", "over", "every", "forward", "wave"],
+    "practice_drill": "We viewed very vast wetlands on Wednesday."
+  },
+  {
+    "id": "p_aspiration",
+    "sound": "/p/ [pʰ]",
+    "title": "Aspirated Plosive 'P' (as in 'Peter', 'Piper', 'Picked', 'Peck')",
+    "category": "Plosive Consonants",
+    "tongue_position": "Tongue remains neutral.",
+    "lip_shape": "Press both lips firmly together to build up air pressure in the mouth.",
+    "airflow": "Release lips abruptly with a crisp puff of air (aspiration). If you hold a tissue before your mouth, it should visibly flutter.",
+    "common_pitfall": "Unaspirated or weak 'p' that sounds like 'b'.",
+    "minimal_pairs": [
+      { "target": "peter", "contrast": "beater" },
+      { "target": "pick", "contrast": "tick" },
+      { "target": "peck", "contrast": "beck" },
+      { "target": "piper", "contrast": "viper" },
+      { "target": "pie", "contrast": "buy" }
+    ],
+    "keywords": ["peter", "piper", "picked", "peck", "pickled", "peppers", "practice", "polite", "pace", "primary", "pause", "presentation", "people"],
+    "practice_drill": "Peter Piper picked a peck of pickled peppers promptly."
+  },
+  {
+    "id": "silent_letters",
+    "sound": "Silent Letters & Irregular Spelling",
+    "title": "Silent Letters & Tricky English Spelling",
+    "category": "Orthography & Silent Letters",
+    "tongue_position": "Skip the silent consonant entirely; transition your tongue directly from the preceding vowel to the following consonant.",
+    "lip_shape": "Follow the vowel shape, do not close lips for silent 'b' or 'w'.",
+    "airflow": "Continuous voicing across the syllable transition.",
+    "common_pitfall": "Pronouncing silent 'b' in 'subtle' (/ˈsʌt.əl/, NOT sub-tul), silent 'd' in 'Wednesday' (/ˈwɛnz.deɪ/, NOT wed-nes-day), or saying /tʃ/ for 'choir' (/ˈkwaɪ.ər/, NOT choy-er).",
+    "minimal_pairs": [
+      { "target": "subtle (SUT-uhl)", "contrast": "sub-tle" },
+      { "target": "Wednesday (WENZ-day)", "contrast": "wed-nes-day" },
+      { "target": "choir (KWY-er)", "contrast": "choy-er" },
+      { "target": "doubt (DOWT)", "contrast": "dow-bt" },
+      { "target": "listen (LIS-en)", "contrast": "lis-ten" }
+    ],
+    "keywords": ["subtle", "choir", "wednesday", "doubt", "debt", "island", "listen", "castle", "knight", "knee", "knife", "write", "wrong", "calm", "half", "walk", "salmon"],
+    "practice_drill": "The subtle choir on Wednesday sang without a doubt."
+  },
+  {
+    "id": "word_stress",
+    "sound": "Syllable Stress & Rhythm",
+    "title": "Multi-Syllable Stress & Cadence",
+    "category": "Prosody & Syllable Stress",
+    "tongue_position": "Open vowels on stressed syllables; reduce unstressed vowels to the neutral schwa /ə/ (tongue relaxed in center).",
+    "lip_shape": "Pronounce stressed syllables with greater jaw opening and longer duration.",
+    "airflow": "Higher pitch, increased vocal loudness, and elongated vowel duration on the stressed syllable.",
+    "common_pitfall": "Pronouncing every syllable with equal weight and volume, making English sound robotic and hard to comprehend.",
+    "minimal_pairs": [
+      { "target": "pro-NUN-ci-A-tion", "contrast": "pro-nun-ci-a-tion (flat)" },
+      { "target": "ca-THE-dral", "contrast": "CA-the-dral" },
+      { "target": "sus-TAIN-a-ble", "contrast": "sus-tain-A-ble" },
+      { "target": "ef-FI-cien-cy", "contrast": "ef-fi-CIEN-cy" }
+    ],
+    "keywords": ["pronunciation", "confidence", "conversation", "cathedral", "efficiency", "sustainable", "objective", "maximize", "resonate", "intermediate", "comfortable", "interesting"],
+    "practice_drill": "Clear pronunciation builds confidence during professional conversations."
+  }
+]
