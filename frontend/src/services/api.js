@@ -1,4 +1,6 @@
-const API_BASE = 'http://127.0.0.1:8000';
+const API_BASE = typeof window !== 'undefined' && (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1')
+  ? 'http://127.0.0.1:8000'
+  : 'https://echo-pronounce-backend.onrender.com';
 
 /**
  * Checks if the FastAPI backend server is accessible
